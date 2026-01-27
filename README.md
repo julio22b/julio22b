@@ -2,7 +2,7 @@
 <br/> 
 <br/> 
 <br/> 
-Dedicated Senior Frontend Engineer with 5+ years of remote experience specializing in building robust **Warehouse Management Systems** (WMS) and high-scale data flows.<br/> 
+Dedicated Senior Frontend Engineer with 5+ years of remote experience specializing in building robust <strong>Warehouse Management Systems</strong> (WMS) and high-scale data flows.<br/> 
 
 🚀 **Reliability**: Scaled test coverage from 36% to 88% using Jest and Selenium. <br/> 
 📉 **Efficiency**: Engineered validation features that reduced data entry errors by 73%. <br/> 
