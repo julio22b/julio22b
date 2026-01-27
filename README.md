@@ -1,5 +1,4 @@
-<img width="3780" height="1890" alt="HI, I&#39;M JULIO (5)" src="https://github.com/user-attachments/assets/6efb088f-651f-4191-81b4-ec1b3c9711dc" />
-
+<img width="3772" height="1499" alt="HI, I&#39;M JULIO (6)" src="https://github.com/user-attachments/assets/90607bbb-cd25-43b6-8508-486efc37f8bb" />
 
 
 Dedicated Senior Frontend Engineer with 5+ years of remote experience specializing in building robust **Warehouse Management Systems** (WMS) and high-scale data flows.
