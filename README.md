@@ -7,5 +7,5 @@ Dedicated Senior Frontend Engineer with 5+ years of remote experience specializi
 🚀 **Reliability**: Scaled test coverage from 36% to 88% using Jest and Selenium. <br/> 
 📉 **Efficiency**: Engineered validation features that reduced data entry errors by 73%. <br/> 
 🛠️ **Modernization**: Led legacy migrations to ES6+, cutting development time by 17%. <br/> 
-
+<br>
 Currently architecting scalable WMS solutions and refining full-stack patterns with Node.js and SQL/NoSQL databases.
