@@ -27,7 +27,7 @@ Currently architecting scalable WMS solutions and refining full-stack patterns w
 
 <div align="center">
 
-🟢 &nbsp;**Open to remote opportunities** &nbsp;•&nbsp; 🌐 &nbsp;[juliobermudez.netlify.app](https://juliobermudez.netlify.app/)
+🟢 &nbsp;**Open to remote opportunities** &nbsp;•&nbsp; 🌐 &nbsp;[juliobermudez.dev](https://juliobermudez.dev/)  &nbsp;•&nbsp; ✉️ &nbsp;[juliobermudez.dev@gmail.com](juliobermudez.dev@gmail.com)
 
 </div>
 
